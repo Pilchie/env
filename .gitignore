@@ -2,3 +2,5 @@
 .ssh
 .viminfo
 code
+
+*.swp
