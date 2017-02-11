@@ -1,0 +1,7 @@
+[user]
+	name = Kevin Pilch
+	email = me@pilchie.com
+[alias]
+	st = status
+[core]
+	editor = vim
