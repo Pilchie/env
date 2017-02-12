@@ -1,1 +1,5 @@
+alias md='mkdir'
 alias msb='MSBuild.exe /m /v:m /nologo /clp:Summary /fl /flp:"Summary;Verbosity=diagnostic"'
+alias up='cd ..'
+alias up2='cd ../..'
+alias up3='cd ../../..'
