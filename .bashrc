@@ -116,3 +116,6 @@ fi
 # Import stuff to set a nice bash prompt when in git directories
 GIT_PROMPT_ONLY_IN_REPO=1
 source ~/.bash-git-prompt/gitprompt.sh
+
+# Start ssh-agent
+eval $(ssh-agent -s)
