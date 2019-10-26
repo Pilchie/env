@@ -1,7 +1,9 @@
 .bash_history
 .dotnet/
+.nuget/
 .ssh
 .sudo_as_admin_successful
+.templateengine/
 .viminfo
 .vscode-server/
 .wget-hsts
