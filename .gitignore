@@ -1,5 +1,7 @@
+.aspnet
 .bash_history
 .dotnet/
+.mono/
 .nuget/
 .ssh
 .sudo_as_admin_successful
