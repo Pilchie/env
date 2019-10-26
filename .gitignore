@@ -1,12 +1,14 @@
 .aspnet
 .bash_history
 .dotnet/
+.microsoft/
 .mono/
 .nuget/
 .ssh
 .sudo_as_admin_successful
 .templateengine/
 .viminfo
+.vsdbg
 .vscode-server/
 .wget-hsts
 code/
