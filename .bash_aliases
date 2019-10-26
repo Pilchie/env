@@ -3,3 +3,4 @@ alias msb='MSBuild.exe /m /v:m /nologo /clp:Summary /fl /flp:"Summary;Verbosity=
 alias up='cd ..'
 alias up2='cd ../..'
 alias up3='cd ../../..'
+alias dockerclean='docker rm $(docker ps -a -q)'
