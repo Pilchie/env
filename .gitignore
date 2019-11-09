@@ -1,5 +1,6 @@
 .aspnet
 .bash_history
+.cache/
 .dotnet/
 .microsoft/
 .mono/
@@ -12,5 +13,6 @@
 .vscode-server/
 .wget-hsts
 code/
+go/
 
 *.swp
