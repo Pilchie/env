@@ -1,4 +1,5 @@
 .aspnet
+.azure/
 .bash_history
 .cache/
 .config/htop/htoprc
