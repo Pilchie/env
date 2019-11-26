@@ -1,6 +1,7 @@
 .aspnet
 .bash_history
 .cache/
+.config/htop/htoprc
 .dotnet/
 .local/
 .microsoft/
