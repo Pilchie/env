@@ -3,7 +3,9 @@
 .bash_history
 .cache/
 .config/htop/htoprc
+.docker/
 .dotnet/
+.kube/
 .local/
 .microsoft/
 .mono/
