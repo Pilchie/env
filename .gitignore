@@ -1,4 +1,5 @@
 .aspnet
+.azds/
 .azure/
 .bash_history
 .cache/
@@ -18,6 +19,7 @@
 .vscode-server/
 .wget-hsts
 code/
+lib/azds-cli/
 go/
 
 *.swp

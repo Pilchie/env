@@ -120,3 +120,5 @@ source ~/.bash-git-prompt/gitprompt.sh
 
 # Start ssh-agent
 eval $(ssh-agent -s)
+
+source /etc/bash_completion.d/azds
