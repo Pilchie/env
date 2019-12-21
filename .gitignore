@@ -3,7 +3,9 @@
 .azure/
 .bash_history
 .cache/
+.config/dlv
 .config/htop/htoprc
+.config/pulse/
 .docker/
 .dotnet/
 .kube/
