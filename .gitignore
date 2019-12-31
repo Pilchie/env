@@ -3,6 +3,7 @@
 .azure/
 .bash_history
 .cache/
+.cargo/
 .config/dlv
 .config/htop/htoprc
 .config/pulse/
@@ -13,10 +14,12 @@
 .microsoft/
 .mono/
 .nuget/
+.rustup/
 .ssh
 .sudo_as_admin_successful
 .templateengine/
 .viminfo
+.vs-kubernetes/
 .vsdbg
 .vscode-server/
 .wget-hsts
