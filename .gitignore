@@ -10,6 +10,7 @@
 .docker/
 .dotnet/
 .kube/
+.lesshst
 .local/
 .microsoft/
 .mono/
